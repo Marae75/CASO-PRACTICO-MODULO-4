@@ -54,9 +54,11 @@ En general el reclutamiento esta ligeramente lidereado por las contrataciones fe
 ![Captura de pantalla 2024-09-14 235637](https://github.com/user-attachments/assets/eb72e394-d4e5-48f8-b5c3-873720f8d677)
 
 
+
 ![Captura de pantalla 2024-09-14 225503](https://github.com/user-attachments/assets/d0b0df88-e742-454b-b7c9-d66b97a63eaa)
 > EJECUTIVE OFFICES
 ![Captura de pantalla 2024-09-14 235911](https://github.com/user-attachments/assets/9dbd36d9-cab5-4840-b08b-9840b4dd39b4)
+
 
 
 ![Captura de pantalla 2024-09-14 225559](https://github.com/user-attachments/assets/e51d74ff-8402-4bf3-89f8-0fde74c21cf1)
@@ -64,9 +66,11 @@ En general el reclutamiento esta ligeramente lidereado por las contrataciones fe
 ![Captura de pantalla 2024-09-15 000525](https://github.com/user-attachments/assets/3a7240d9-0a12-4d6e-b138-8338abc5aef0)
 
 
+
 ![Captura de pantalla 2024-09-14 225635](https://github.com/user-attachments/assets/4a1e9c6f-11c3-4ddf-a995-d5d716fd23be)
 > PRODUCTION
 ![Captura de pantalla 2024-09-15 000637](https://github.com/user-attachments/assets/539dfadd-55b1-4e0b-8a07-8cbe6e1110a5)
+
 
 
 ![Captura de pantalla 2024-09-14 225702](https://github.com/user-attachments/assets/7552b565-6f7d-47b1-ac67-a082fe84420a)
@@ -74,9 +78,12 @@ En general el reclutamiento esta ligeramente lidereado por las contrataciones fe
 ![Captura de pantalla 2024-09-15 000834](https://github.com/user-attachments/assets/f9ccb280-4593-4f8a-a973-fb975759f743)
 
 
+
 ![Captura de pantalla 2024-09-14 225718](https://github.com/user-attachments/assets/bf04d606-f650-4cdb-88be-31b2eac471e4)
 > SOFTWARE ENGINEERING
 ![Captura de pantalla 2024-09-15 001021](https://github.com/user-attachments/assets/382bd925-1e0f-4960-b8eb-0558dbc08f7b)
+
+
 
 
 | PROMEDIO SALARIO / SATISFACCION | MASCULINO | FEMENINO
@@ -87,6 +94,7 @@ En general el reclutamiento esta ligeramente lidereado por las contrataciones fe
 | Admin Offices | 74 K / 4.3 | 71 K / 3.2
 | Sales | 66 K / 4.0 | **72 K** / 4.1
 | Production | 60 K / 3.8 | 60 K / 3.9
+
 
 ## Links
 
