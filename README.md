@@ -49,10 +49,12 @@ En general el reclutamiento esta ligeramente lidereado por las contrataciones fe
 ### SALARIO PROMEDIO POR DEPARTAMENTO Y POR POSICION
 ### ESCALA DE SATISFACCION POR DEPARTAMENTO Y POR POSICION
 
+> [!ADMIN OFFICES]
 ![Captura de pantalla 2024-09-14 225442](https://github.com/user-attachments/assets/fabd54be-34b5-4e71-875a-70d12e8a3880)
-> ADMIN OFFICES
+> 
 ![Captura de pantalla 2024-09-14 235637](https://github.com/user-attachments/assets/eb72e394-d4e5-48f8-b5c3-873720f8d677)
-
+>
+>
 
 
 ![Captura de pantalla 2024-09-14 225503](https://github.com/user-attachments/assets/d0b0df88-e742-454b-b7c9-d66b97a63eaa)
